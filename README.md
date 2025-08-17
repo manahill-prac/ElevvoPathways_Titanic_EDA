@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/titanic-eda/blob/main/notebooks/Titanic_EDA.ipynb)
+
 # Titanic EDA
 
 This repository contains an exploratory data analysis (EDA) on the Titanic dataset.
